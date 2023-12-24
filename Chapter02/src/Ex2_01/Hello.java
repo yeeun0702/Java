@@ -1,4 +1,4 @@
-package Ex2_1; // src폴더에 들어감
+package Ex2_01; // src폴더에 들어감
 
 public class Hello { // bin 폴더에 들어감
 	public static int sum(int n, int m) {
