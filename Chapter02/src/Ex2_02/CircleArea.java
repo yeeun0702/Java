@@ -1,6 +1,6 @@
 // 변수, 리터럴, 상수 활용
 
-package Ex2_2;
+package Ex2_02;
 
 public class CircleArea {
 
